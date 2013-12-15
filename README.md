@@ -19,8 +19,8 @@ This plugin implements additional table support for JSPWiki pages, such as:
 - CSS style for odd/even rows.
 
 Installation Instructions:
-- Copy Table.jar to the folder ``/WEB-INF/lib/``  of your web server
-- Modify the plugin searchPath in your ``WEB-INF/jspwiki.properties` and 
+- Copy Table.jar to the folder `/WEB-INF/lib/`  of your web server
+- Modify the plugin searchPath in your `WEB-INF/jspwiki.properties` and 
   make sure there are no spaces between the different entries. Example:  
   
     jspwiki.plugin.searchPath = brushed.jspwiki.tableplugin
