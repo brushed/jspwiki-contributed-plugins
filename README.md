@@ -23,7 +23,7 @@ Installation Instructions:
 - Modify the plugin searchPath in your `WEB-INF/jspwiki.properties` and 
   make sure there are no spaces between the different entries. Example:  
   
-    jspwiki.plugin.searchPath = brushed.jspwiki.tableplugin
+         jspwiki.plugin.searchPath = brushed.jspwiki.tableplugin
   
 - Restart JSPWiki
 
